@@ -96,4 +96,6 @@ A typical CNN architecture for image classification consists of:
 ### **Conclusion**
 CNNs are the foundation of modern computer vision applications, enabling accurate **image classification, object detection, and segmentation**. Their ability to automatically learn hierarchical features makes them superior to traditional machine learning methods.
 
-Would you like a detailed comparison of CNNs with other architectures like ResNet or Vision Transformers? 🚀
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/84b61a7e-aa48-47b2-b935-886ba8707538)
